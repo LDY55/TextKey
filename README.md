@@ -4,6 +4,8 @@
 
 **[Скачать TextKey 1.0.0 для Windows x64](https://github.com/LDY55/TextKey/releases/download/v1.0.0/TextKey-1.0.0-windows-x64.zip)** · [Страница релиза и контрольная сумма](https://github.com/LDY55/TextKey/releases/tag/v1.0.0)
 
+В предварительной версии **1.0.1-rc.5** исправлен повторный вызов палитры в Telegram Desktop. Выделите слово в сообщении и нажмите и отпустите `Ctrl+Win+Alt`. В поле набора можно обработать и весь черновик, оставив в нём курсор. Обновление также улучшает чтение выделения в Chrome и добавляет поддержку ячеек Excel. [Скачать 1.0.1-rc.5 для Windows x64](https://github.com/LDY55/TextKey/releases/download/v1.0.1-rc.5/TextKey-1.0.1-rc.5-windows-x64.zip) · [Что изменилось](https://github.com/LDY55/TextKey/releases/tag/v1.0.1-rc.5)
+
 ![Редактор TextKey с пятью командами обработки](palette.png)
 
 ## Первый запуск
